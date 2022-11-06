@@ -1,4 +1,9 @@
+
+//Joita a rezolvat conflictele aici, totul ok!
 Ceva text de la teo
 Ceva text de la teo2
 Ceva text de la teo3
 Ceva text de la teo4
+Joita fermecatorul a adaugat o linie aici!
+Daca il modifici ne certam 
+
