@@ -1,0 +1,5 @@
+Acesta e un task separatat. 
+Doar eu o sa scriu in acesta.
+Linie 3
+Linie 4
+etc
